@@ -1,2 +1,4 @@
 # tsne
-Code of t-SNE from the original authors
+The t-SNE code  from the original authors
+https://lvdmaaten.github.io/tsne/
+
